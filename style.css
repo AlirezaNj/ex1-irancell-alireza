@@ -1,0 +1,70 @@
+.bala{
+    height: 80px;
+}
+.logo-irancell{
+    width: 50px;
+}
+/*
+.container1 {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+!* Bottom left text *!
+.bottom-left1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);D
+}*/
+header{
+    overflow: hidden;
+}
+.cont-banner{
+    height: 83vh;
+}
+.banner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: url("images/Web Banner 1584x614- CTA-FA.jpg");
+}
+.caption{
+    position: absolute;
+    top:150px;
+    padding-right: 25px;
+    width: 40%;
+    height: 100%;
+}
+.offer{
+    /*background-color: gold;*/
+    border-radius: 20px;
+    width: 80%;
+}
+.end{
+    background-color: black;
+}
+
+/*.cap{
+    padding-bottom: 286px;
+    padding-top: 286px;
+}*/
+/*
+.banner-a{
+    text-decoration: none;
+    color: black;
+}
+.banner-image{
+    overflow: hidden;
+}
+.banner-text{
+    right: 0;
+    padding-right: 25px;
+    background: linear-gradient(90deg,hsla(0,0%,100%,0),#fff);
+}
+.banner-title{
+    text-align: center;
+}
+*/
+
